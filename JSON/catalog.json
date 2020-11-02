@@ -1,0 +1,42 @@
+[
+    {
+        "productName": "MANGO PEOPLE T-SHIRT",
+        "productPrice": 52,
+        "productImg": "https://raw.githubusercontent.com/plus-GH/static/master/imgs/JS_shop/Fetured1.jpg"
+    },
+    {
+        "productName": "MANGO PEOPLE T-SHIRT",
+        "productPrice": 53,
+        "productImg": "https://raw.githubusercontent.com/plus-GH/static/master/imgs/JS_shop/Fetured2.jpg"
+    },
+    {
+        "productName": "MANGO PEOPLE T-SHIRT",
+        "productPrice": 55,
+        "productImg": "https://raw.githubusercontent.com/plus-GH/static/master/imgs/JS_shop/Fetured3.jpg"
+    },
+    {
+        "productName": "MANGO PEOPLE T-SHIRT",
+        "productPrice": 67,
+        "productImg": "https://raw.githubusercontent.com/plus-GH/static/master/imgs/JS_shop/Fetured4.jpg"
+    },
+    {
+        "productName": "MANGO PEOPLE T-SHIRT",
+        "productPrice": 60,
+        "productImg": "https://raw.githubusercontent.com/plus-GH/static/master/imgs/JS_shop/Fetured5.jpg"
+    },
+    {
+        "productName": "MANGO PEOPLE T-SHIRT",
+        "productPrice": 59,
+        "productImg": "https://raw.githubusercontent.com/plus-GH/static/master/imgs/JS_shop/Fetured6.jpg"
+    },
+    {
+        "productName": "MANGO PEOPLE T-SHIRT",
+        "productPrice": 53,
+        "productImg": "https://raw.githubusercontent.com/plus-GH/static/master/imgs/JS_shop/Fetured7.jpg"
+    },
+    {
+        "productName": "MANGO PEOPLE T-SHIRT",
+        "productPrice": 65,
+        "productImg": "https://raw.githubusercontent.com/plus-GH/static/master/imgs/JS_shop/Fetured8.jpg"
+    }
+]
